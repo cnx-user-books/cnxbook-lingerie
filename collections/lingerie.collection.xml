@@ -1,0 +1,21 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Dico Bourse">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10310</md:content-id>
+    <md:title>Lingerie</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>fr</md:language>
+    <md:uuid>18cc0f0d-e8c6-4d0e-bb21-ad573310586e</md:uuid>
+<md:slug>lingerie</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>historique de la lingerie</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Lingerie à a maison</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
